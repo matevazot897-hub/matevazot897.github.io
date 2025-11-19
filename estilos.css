@@ -1,0 +1,10 @@
+body {background-color: lightgray; font: Arial; margin: 0;padding:10px ;}
+header {background-color: gray; padding: 10px; font: italic 40px Arial;}
+h1 {color: lightgrey;}
+h2{font: 70px impact;}
+li{font: italic 32px Times New Roman;}
+td{font: 30px Brush Script;}
+p { font: italic 36px Brush Script;}
+nav{background-color: #ddd;padding: 20px; font:normal 30px Arial;}
+section {background-color: white;margin: 15px;padding: 20px;border: 2.5px solid black;}
+footer {text-align: center;padding: 1px;}
